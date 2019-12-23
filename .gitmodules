@@ -1,0 +1,3 @@
+[submodule "cmake/npm"]
+	path = cmake/npm
+	url = https://github.com/rogii-com/cnpm.git
