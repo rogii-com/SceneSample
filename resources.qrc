@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/SceneSample">
+        <file>main.qml</file>
+        <file>FlatColor.frag</file>
+        <file>FlatColor.vert</file>
+        <file>ShiftArea.qml</file>
+    </qresource>
+</RCC>
